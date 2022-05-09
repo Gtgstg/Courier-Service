@@ -8,7 +8,7 @@
     "db": "mongod --dbpath=./db",
     "test": "mocha test/*.js"
   },
-  "author": "Rufat MAMMADLI",
+  "author": "gtgstg",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
